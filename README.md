@@ -35,7 +35,7 @@
 
 | Nome completo                  | RM     |
 | ------------------------------ | ------ |
-| Marco Antônio Ferreira Fonseca | 566434 |
+| Marco Antonio Ferreira Fonseca | 566434 |
 | Bruno Soares de Santanna       | 562235 |
 | Enzo Yokokura Araujo           | 564177 |
 
