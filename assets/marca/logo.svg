@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Logo do Pulso do Território">
+  <rect width="1024" height="1024" rx="230" fill="#2E3A8C"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- casa -->
+    <path d="M220 760 V560 L310 478 L400 560 V760"/>
+    <path d="M285 760 V675 H335 V760"/>
+    <path d="M255 585 H290 V618 H255 Z"/>
+    <!-- prédio alto -->
+    <path d="M580 760 V330 H710 V760"/>
+    <path d="M615 395 H675 M615 455 H675 M615 515 H675 M615 575 H675 M615 635 H675"/>
+    <!-- prédio baixo -->
+    <path d="M740 760 V520 H834 V760"/>
+    <path d="M770 575 H804 M770 635 H804 M770 695 H804"/>
+    <!-- chão em forma de pulso -->
+    <path d="M150 760 H418 L448 700 L486 832 L524 640 L556 760 H874" stroke-width="26"/>
+  </g>
+  <!-- sol -->
+  <circle cx="330" cy="305" r="72" fill="none" stroke="#FFCF5C" stroke-width="22"/>
+</svg>
